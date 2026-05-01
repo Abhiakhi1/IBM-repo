@@ -1,6 +1,6 @@
 # IBM Introduction to Git and GitHub
 
-This repository contains the final project for the IBM Introduction to Git and GitHub course from the Developer Skills Network (MCINO).
+This repository contains the final project for the IBM Introduction to Git and GitHub course from the Developer Skills Network (DSN).
 
 ## Project Overview
 
